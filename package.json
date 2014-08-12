@@ -1,0 +1,14 @@
+{
+  "name": "teeProgram",
+  "version": "0.0.0",
+  "description": "This program should take input from standard in and output it to both standard out and a file specified at run time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prompt": "^0.2.13"
+  }
+}
